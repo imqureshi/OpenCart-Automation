@@ -5,7 +5,7 @@ This project automate the task of uploading products and attaching related produ
 ## Getting Started
 To get started with the project folow the promts and provide the following information:
 
-* Url of Admin Panel
+* URL of Admin Panel
 * Username
 * Password
 * Windows path to xlsx file 
