@@ -12,7 +12,8 @@ To get started with the project folow the promts and provide the following infor
 
 ### Prerequisites
 
-You need to install the following packages to run the code:
+You need to install the following packages to run the code
+
 * Pandas
 * Selenium
 * Pynput
@@ -37,14 +38,14 @@ pip install keyboard
 
 Clone the repository and add yur xlsx to same folder for convenience. Make sure that the excel file heading matches that of the code. Your file should be catagorized in following fields. 
 
-*SKU
-*Product Title
-*Subcat
-*Price
-*Tags
-*Quantity
-*Images
-*Model
+* SKU
+* Product Title
+* Subcat
+* Price
+* Tags
+* Quantity
+* Images
+* Model
 
 ## Author
 
