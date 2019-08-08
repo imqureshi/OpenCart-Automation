@@ -154,7 +154,7 @@ def main():
         price = dfs['Price'][i]
         price = str(price)
         tags = dfs['Tags'][i]
-        model = dfs['CAR NAMES'][i]
+        model = dfs['Model'][i]
         Quan = dfs['Quantity'][i]
         Quan = str(Quan)
         img = dfs['Images'][i]
