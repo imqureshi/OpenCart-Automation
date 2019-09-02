@@ -36,7 +36,7 @@ pip install keyboard
 
 ### Installing
 
-Clone the repository and add yur xlsx to same folder for convenience. Make sure that the excel file heading matches that of the code. Your file should be catagorized in following fields. 
+Clone the repository and add your xlsx to same folder for convenience. Make sure that the excel file heading matches that of the code. Your file should be catagorized in following fields. 
 
 * SKU
 * Product Title
